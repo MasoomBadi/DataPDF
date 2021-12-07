@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DataPDF</string>
+    <string name="data_display">Data display</string>
+    <string name="address">Address</string>
+    <string name="save_pdf">SAVE PDF</string>
+    <string name="name">Name: %1$s</string>
+    <string name="regno">Reg No: %1$s</string>
+    <string name="sonof">Son Of: %1$s</string>
+    <string name="dob">DOB: %1$s</string>
+    <string name="phone">Phone: %1$s</string>
+    <string name="aadhar">Aadhar No: %1$s</string>
+    <string name="block">Block: %1$s</string>
+    <string name="village">Village: %1$s</string>
+    <string name="panchayat">Panchayat: %1$s</string>
+    <string name="district">District: %1$s</string>
+    <string name="kisancc">किसान कॉल सेंटर नंबर : 1800–180-1551</string>
+</resources>
